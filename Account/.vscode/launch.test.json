@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "testapp",
+                "projectName": "testapp",
+                "workingDirectory": "c:\\Coding\\Code\\Java\\MavenEx\\testapp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "testapp",
+                "projectName": "testapp",
+                "workingDirectory": "c:\\Coding\\Code\\Java\\MavenEx\\testapp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
